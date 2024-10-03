@@ -13,6 +13,6 @@
   <img src="https://skillicons.dev/icons?i=github,git,markdown,stackoverflow,vscode,ubuntu"/><br><br><br>
 
   <h2>Stuff I'm Learning</h2>
-  <img src="https://skillicons.dev/icons?i=kotlin,cs,htmx"/><br><br><br>
+  <img src="https://skillicons.dev/icons?i=java,kotlin,cs,htmx"/><br><br><br>
   
 </div>
